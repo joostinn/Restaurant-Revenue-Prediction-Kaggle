@@ -1,4 +1,4 @@
-#Restaurant Revenue Prediction — Machine Learning Project
+# Restaurant Revenue Prediction — Machine Learning Project
 This project builds a complete machine learning pipeline to predict annual restaurant revenue using the Kaggle Restaurant Revenue Prediction dataset.
 The workflow includes:
 - Data cleaning and preprocessing
